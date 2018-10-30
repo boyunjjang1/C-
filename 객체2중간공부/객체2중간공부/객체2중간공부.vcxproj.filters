@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\4week">
+      <UniqueIdentifier>{d355fa1f-2183-4dd2-a471-6ee456fa8414}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3week">
+      <UniqueIdentifier>{00010be6-1461-4147-8255-59f9d43e2d50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\6week">
+      <UniqueIdentifier>{50c83950-1ec9-4eb8-94f9-0356d0f69478}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\5week">
+      <UniqueIdentifier>{5a64b059-d6f9-4053-95fd-094ba1785d5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\7week">
+      <UniqueIdentifier>{33c618eb-d9a5-4ebd-a90c-9313007abd66}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz1_bankClass.cpp">
+      <Filter>소스 파일\4week</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz2_friendObj.cpp">
+      <Filter>소스 파일\4week</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz3_const.cpp">
+      <Filter>소스 파일\4week</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz1_inherit.cpp">
+      <Filter>소스 파일\5week</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz2_shape_inheritance.cpp">
+      <Filter>소스 파일\5week</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz3_draw.cpp">
+      <Filter>소스 파일\5week</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz1_string.cpp">
+      <Filter>소스 파일\6week</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz1_2_setprecision.cpp">
+      <Filter>소스 파일\6week</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz1_3_showpoint.cpp">
+      <Filter>소스 파일\6week</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz1_4_fill.cpp">
+      <Filter>소스 파일\6week</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz2_타자연습.cpp">
+      <Filter>소스 파일\6week</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz3_sqrt_table.cpp">
+      <Filter>소스 파일\6week</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz4_student_info.cpp">
+      <Filter>소스 파일\6week</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz5_phone_book.cpp">
+      <Filter>소스 파일\6week</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz1_employee.cpp">
+      <Filter>소스 파일\7week</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
