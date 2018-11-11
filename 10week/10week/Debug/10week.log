@@ -1,0 +1,3 @@
+﻿  10week_quiz3.cpp
+c:\users\강보윤\desktop\inhahime\c++_code\10week\10week\10week_quiz3.cpp(135): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+  10week.vcxproj -> C:\Users\강보윤\Desktop\InhaHime\C++_code\10week\Debug\10week.exe
